@@ -1,0 +1,72 @@
+﻿
+
+
+
+        ///////////////// not published in this version/////////////////////
+
+        // letting the user open exist S file and showing it on data grid
+
+        //private void Browse_Data_Grid(object sender, RoutedEventArgs e)
+        //{
+        //    var LocationFromUser = "";
+        //    Microsoft.Win32.OpenFileDialog openFileDlg = new Microsoft.Win32.OpenFileDialog();
+        //    Nullable<bool> result = openFileDlg.ShowDialog();
+
+        //    if (result == true)
+        //    {
+        //        L_Databrows.Text = openFileDlg.FileName;
+        //        LocationFromUser = L_Databrows.Text;
+        //    }
+
+        //    // reading the user path
+
+        //    using (TextFieldParser parser = new TextFieldParser(@LocationFromUser))
+        //    {
+        //        parser.TextFieldType = FieldType.Delimited;
+        //        parser.SetDelimiters(",");
+
+        //        var i = 0;
+
+        //        List<string> Sfile_From_User = new List<string>();
+
+
+        //        while (!parser.EndOfData)
+        //        {
+        //            string[] FromUser = parser.ReadFields();
+
+
+        //            i++;
+
+        //            //step over headers
+        //            if (i > 1)
+        //            {
+        //                Sfile_From_User.Add(FromUser[0]);
+
+        //            }
+
+        //        }
+
+        //        GridDataFromUser.ItemsSource = Sfile_From_User;
+        //    }
+
+        //}
+
+        //deleting record from new s file (main grid)
+
+
+
+        //// deleting user record from s file (second grid)
+
+        //private void Delete_UserRecord(object sender, RoutedEventArgs e)
+        //{
+
+        //    IEditableCollectionView items = GridDataFromUser.Items; //Cast to interface
+        //    if (items.CanRemove)
+        //    {
+        //        while (GridDataFromUser.SelectedValue != null)
+        //        {
+        //            items.Remove(GridDataFromUser.SelectedItem);
+        //        }
+        //    }
+
+        //}

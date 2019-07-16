@@ -1,0 +1,139 @@
+M:\avi\tools\SfileHelper\SfileHelper\SfileHelper\obj\Debug\SfileHelper.csprojAssemblyReference.cache
+M:\avi\tools\SfileHelper\SfileHelper\SfileHelper\obj\Debug\MainWindow.g.cs
+M:\avi\tools\SfileHelper\SfileHelper\SfileHelper\obj\Debug\App.g.cs
+M:\avi\tools\SfileHelper\SfileHelper\SfileHelper\obj\Debug\SfileHelper_MarkupCompile.cache
+M:\avi\tools\SfileHelper\SfileHelper\SfileHelper\obj\Debug\SfileHelper_MarkupCompile.lref
+M:\avi\tools\SfileHelper\SfileHelper\SfileHelper\bin\Debug\SfileHelper.exe.config
+M:\avi\tools\SfileHelper\SfileHelper\SfileHelper\bin\Debug\SfileHelper.exe
+M:\avi\tools\SfileHelper\SfileHelper\SfileHelper\bin\Debug\SfileHelper.pdb
+M:\avi\tools\SfileHelper\SfileHelper\SfileHelper\obj\Debug\MainWindow.baml
+M:\avi\tools\SfileHelper\SfileHelper\SfileHelper\obj\Debug\SfileHelper.g.resources
+M:\avi\tools\SfileHelper\SfileHelper\SfileHelper\obj\Debug\SfileHelper.Properties.Resources.resources
+M:\avi\tools\SfileHelper\SfileHelper\SfileHelper\obj\Debug\SfileHelper.csproj.GenerateResource.cache
+M:\avi\tools\SfileHelper\SfileHelper\SfileHelper\obj\Debug\SfileHelper.csproj.CoreCompileInputs.cache
+M:\avi\tools\SfileHelper\SfileHelper\SfileHelper\obj\Debug\SfileHelper.exe
+M:\avi\tools\SfileHelper\SfileHelper\SfileHelper\obj\Debug\SfileHelper.pdb
+C:\לימודים\SfileHelper-20181211T135919Z-001\SfileHelper\SfileHelper\SfileHelper\bin\Debug\SfileHelper.exe.config
+C:\לימודים\SfileHelper-20181211T135919Z-001\SfileHelper\SfileHelper\SfileHelper\bin\Debug\SfileHelper.exe
+C:\לימודים\SfileHelper-20181211T135919Z-001\SfileHelper\SfileHelper\SfileHelper\bin\Debug\SfileHelper.pdb
+C:\לימודים\SfileHelper-20181211T135919Z-001\SfileHelper\SfileHelper\SfileHelper\bin\Debug\Microsoft.VisualStudio.LiveShare.dll
+C:\לימודים\SfileHelper-20181211T135919Z-001\SfileHelper\SfileHelper\SfileHelper\bin\Debug\Microsoft.VisualStudio.LiveShare.xml
+C:\לימודים\SfileHelper-20181211T135919Z-001\SfileHelper\SfileHelper\SfileHelper\obj\Debug\SfileHelper.csprojAssemblyReference.cache
+C:\לימודים\SfileHelper-20181211T135919Z-001\SfileHelper\SfileHelper\SfileHelper\obj\Debug\MainWindow.g.cs
+C:\לימודים\SfileHelper-20181211T135919Z-001\SfileHelper\SfileHelper\SfileHelper\obj\Debug\App.g.cs
+C:\לימודים\SfileHelper-20181211T135919Z-001\SfileHelper\SfileHelper\SfileHelper\obj\Debug\SfileHelper_MarkupCompile.cache
+C:\לימודים\SfileHelper-20181211T135919Z-001\SfileHelper\SfileHelper\SfileHelper\obj\Debug\SfileHelper_MarkupCompile.lref
+C:\לימודים\SfileHelper-20181211T135919Z-001\SfileHelper\SfileHelper\SfileHelper\obj\Debug\MainWindow.baml
+C:\לימודים\SfileHelper-20181211T135919Z-001\SfileHelper\SfileHelper\SfileHelper\obj\Debug\SfileHelper.g.resources
+C:\לימודים\SfileHelper-20181211T135919Z-001\SfileHelper\SfileHelper\SfileHelper\obj\Debug\SfileHelper.Properties.Resources.resources
+C:\לימודים\SfileHelper-20181211T135919Z-001\SfileHelper\SfileHelper\SfileHelper\obj\Debug\SfileHelper.csproj.GenerateResource.cache
+C:\לימודים\SfileHelper-20181211T135919Z-001\SfileHelper\SfileHelper\SfileHelper\obj\Debug\SfileHelper.csproj.CoreCompileInputs.cache
+C:\לימודים\SfileHelper-20181211T135919Z-001\SfileHelper\SfileHelper\SfileHelper\obj\Debug\SfileHelper.csproj.CopyComplete
+C:\לימודים\SfileHelper-20181211T135919Z-001\SfileHelper\SfileHelper\SfileHelper\obj\Debug\SfileHelper.exe
+C:\לימודים\SfileHelper-20181211T135919Z-001\SfileHelper\SfileHelper\SfileHelper\obj\Debug\SfileHelper.pdb
+C:\לימודים\SfileHelper\SfileHelper\SfileHelper\SfileHelper\bin\Debug\SfileHelper.exe.config
+C:\לימודים\SfileHelper\SfileHelper\SfileHelper\SfileHelper\bin\Debug\SfileHelper.exe
+C:\לימודים\SfileHelper\SfileHelper\SfileHelper\SfileHelper\bin\Debug\SfileHelper.pdb
+C:\לימודים\SfileHelper\SfileHelper\SfileHelper\SfileHelper\bin\Debug\Microsoft.VisualStudio.LiveShare.dll
+C:\לימודים\SfileHelper\SfileHelper\SfileHelper\SfileHelper\bin\Debug\Microsoft.VisualStudio.LiveShare.xml
+C:\לימודים\SfileHelper\SfileHelper\SfileHelper\SfileHelper\obj\Debug\SfileHelper.csprojAssemblyReference.cache
+C:\לימודים\SfileHelper\SfileHelper\SfileHelper\SfileHelper\obj\Debug\MainWindow.g.cs
+C:\לימודים\SfileHelper\SfileHelper\SfileHelper\SfileHelper\obj\Debug\App.g.cs
+C:\לימודים\SfileHelper\SfileHelper\SfileHelper\SfileHelper\obj\Debug\SfileHelper_MarkupCompile.cache
+C:\לימודים\SfileHelper\SfileHelper\SfileHelper\SfileHelper\obj\Debug\SfileHelper_MarkupCompile.lref
+C:\לימודים\SfileHelper\SfileHelper\SfileHelper\SfileHelper\obj\Debug\MainWindow.baml
+C:\לימודים\SfileHelper\SfileHelper\SfileHelper\SfileHelper\obj\Debug\SfileHelper.g.resources
+C:\לימודים\SfileHelper\SfileHelper\SfileHelper\SfileHelper\obj\Debug\SfileHelper.Properties.Resources.resources
+C:\לימודים\SfileHelper\SfileHelper\SfileHelper\SfileHelper\obj\Debug\SfileHelper.csproj.GenerateResource.cache
+C:\לימודים\SfileHelper\SfileHelper\SfileHelper\SfileHelper\obj\Debug\SfileHelper.csproj.CoreCompileInputs.cache
+C:\לימודים\SfileHelper\SfileHelper\SfileHelper\SfileHelper\obj\Debug\SfileHelper.csproj.CopyComplete
+C:\לימודים\SfileHelper\SfileHelper\SfileHelper\SfileHelper\obj\Debug\SfileHelper.exe
+C:\לימודים\SfileHelper\SfileHelper\SfileHelper\SfileHelper\obj\Debug\SfileHelper.pdb
+C:\Users\vellera\OneDrive - Kantar\avi\SfileHelper\SfileHelper\SfileHelper\bin\Debug\SfileHelper.exe.config
+C:\Users\vellera\OneDrive - Kantar\avi\SfileHelper\SfileHelper\SfileHelper\bin\Debug\SfileHelper.exe
+C:\Users\vellera\OneDrive - Kantar\avi\SfileHelper\SfileHelper\SfileHelper\bin\Debug\SfileHelper.pdb
+C:\Users\vellera\OneDrive - Kantar\avi\SfileHelper\SfileHelper\SfileHelper\obj\Debug\SfileHelper.csprojAssemblyReference.cache
+C:\Users\vellera\OneDrive - Kantar\avi\SfileHelper\SfileHelper\SfileHelper\obj\Debug\MainWindow.g.cs
+C:\Users\vellera\OneDrive - Kantar\avi\SfileHelper\SfileHelper\SfileHelper\obj\Debug\App.g.cs
+C:\Users\vellera\OneDrive - Kantar\avi\SfileHelper\SfileHelper\SfileHelper\obj\Debug\SfileHelper_MarkupCompile.cache
+C:\Users\vellera\OneDrive - Kantar\avi\SfileHelper\SfileHelper\SfileHelper\obj\Debug\SfileHelper_MarkupCompile.lref
+C:\Users\vellera\OneDrive - Kantar\avi\SfileHelper\SfileHelper\SfileHelper\obj\Debug\MainWindow.baml
+C:\Users\vellera\OneDrive - Kantar\avi\SfileHelper\SfileHelper\SfileHelper\obj\Debug\SfileHelper.g.resources
+C:\Users\vellera\OneDrive - Kantar\avi\SfileHelper\SfileHelper\SfileHelper\obj\Debug\SfileHelper.Properties.Resources.resources
+C:\Users\vellera\OneDrive - Kantar\avi\SfileHelper\SfileHelper\SfileHelper\obj\Debug\SfileHelper.csproj.GenerateResource.cache
+C:\Users\vellera\OneDrive - Kantar\avi\SfileHelper\SfileHelper\SfileHelper\obj\Debug\SfileHelper.csproj.CoreCompileInputs.cache
+C:\Users\vellera\OneDrive - Kantar\avi\SfileHelper\SfileHelper\SfileHelper\obj\Debug\SfileHelper.exe
+C:\Users\vellera\OneDrive - Kantar\avi\SfileHelper\SfileHelper\SfileHelper\obj\Debug\SfileHelper.pdb
+C:\Users\avive\OneDrive - Kantar\avi\SfileHelper\SfileHelper\SfileHelper\bin\Debug\SfileHelper.exe.config
+C:\Users\avive\OneDrive - Kantar\avi\SfileHelper\SfileHelper\SfileHelper\bin\Debug\SfileHelper.exe
+C:\Users\avive\OneDrive - Kantar\avi\SfileHelper\SfileHelper\SfileHelper\bin\Debug\SfileHelper.pdb
+C:\Users\avive\OneDrive - Kantar\avi\SfileHelper\SfileHelper\SfileHelper\obj\Debug\MainWindow.g.cs
+C:\Users\avive\OneDrive - Kantar\avi\SfileHelper\SfileHelper\SfileHelper\obj\Debug\App.g.cs
+C:\Users\avive\OneDrive - Kantar\avi\SfileHelper\SfileHelper\SfileHelper\obj\Debug\SfileHelper_MarkupCompile.cache
+C:\Users\avive\OneDrive - Kantar\avi\SfileHelper\SfileHelper\SfileHelper\obj\Debug\SfileHelper_MarkupCompile.lref
+C:\Users\avive\OneDrive - Kantar\avi\SfileHelper\SfileHelper\SfileHelper\obj\Debug\MainWindow.baml
+C:\Users\avive\OneDrive - Kantar\avi\SfileHelper\SfileHelper\SfileHelper\obj\Debug\SfileHelper.g.resources
+C:\Users\avive\OneDrive - Kantar\avi\SfileHelper\SfileHelper\SfileHelper\obj\Debug\SfileHelper.Properties.Resources.resources
+C:\Users\avive\OneDrive - Kantar\avi\SfileHelper\SfileHelper\SfileHelper\obj\Debug\SfileHelper.csproj.GenerateResource.cache
+C:\Users\avive\OneDrive - Kantar\avi\SfileHelper\SfileHelper\SfileHelper\obj\Debug\SfileHelper.csproj.CoreCompileInputs.cache
+C:\Users\avive\OneDrive - Kantar\avi\SfileHelper\SfileHelper\SfileHelper\obj\Debug\SfileHelper.exe
+C:\Users\avive\OneDrive - Kantar\avi\SfileHelper\SfileHelper\SfileHelper\obj\Debug\SfileHelper.pdb
+C:\Users\vellera\OneDrive - Kantar\avi\SfileHelper\SfileHelper\SfileHelper\obj\Debug\Window1.g.cs
+C:\Users\vellera\OneDrive - Kantar\avi\SfileHelper\SfileHelper\SfileHelper\obj\Debug\Window1.baml
+C:\Users\avive\OneDrive - Kantar\avi\SfileHelper\SfileHelper\SfileHelper\obj\Debug\Window1.g.cs
+C:\Users\avive\OneDrive - Kantar\avi\SfileHelper\SfileHelper\SfileHelper\obj\Debug\Window1.baml
+C:\Users\avive\OneDrive - Kantar\avi\SfileHelper\SfileHelper\SfileHelper\obj\Debug\SfileHelper.csprojAssemblyReference.cache
+C:\Users\vellera\OneDrive - Kantar\avi\SfileHelper\SfileHelper\SfileHelper\bin\Debug\Interop.EDOfficeLib.dll
+C:\Users\vellera\OneDrive - Kantar\avi\SfileHelper\SfileHelper\SfileHelper\bin\Debug\AxInterop.EDOfficeLib.dll
+C:\Users\vellera\OneDrive - Kantar\avi\SfileHelper\SfileHelper\SfileHelper\obj\Debug\Interop.EDOfficeLib.dll
+C:\Users\vellera\OneDrive - Kantar\avi\SfileHelper\SfileHelper\SfileHelper\obj\Debug\AxInterop.EDOfficeLib.dll
+C:\Users\vellera\OneDrive - Kantar\avi\SfileHelper\SfileHelper\SfileHelper\obj\Debug\SfileHelper.csproj.ResolveComReference.cache
+C:\Users\vellera\OneDrive - Kantar\avi\SfileHelper\SfileHelper\SfileHelper\obj\Debug\SfileHelper.csproj.CopyComplete
+C:\Users\vellera\OneDrive - Kantar\avi\SfileHelper\SfileHelper\SfileHelper\bin\Debug\ControlzEx.dll
+C:\Users\vellera\OneDrive - Kantar\avi\SfileHelper\SfileHelper\SfileHelper\bin\Debug\MahApps.Metro.dll
+C:\Users\vellera\OneDrive - Kantar\avi\SfileHelper\SfileHelper\SfileHelper\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\vellera\OneDrive - Kantar\avi\SfileHelper\SfileHelper\SfileHelper\bin\Debug\ControlzEx.pdb
+C:\Users\vellera\OneDrive - Kantar\avi\SfileHelper\SfileHelper\SfileHelper\bin\Debug\MahApps.Metro.pdb
+C:\Users\vellera\OneDrive - Kantar\avi\SfileHelper\SfileHelper\SfileHelper\bin\Debug\MahApps.Metro.xml
+C:\Users\vellera\OneDrive - Kantar\avi\SfileHelper\SfileHelper\SfileHelper\obj\Debug\App.baml
+C:\Users\avive\OneDrive - Kantar\avi\SfileHelper\SfileHelper\SfileHelper\bin\Debug\ControlzEx.dll
+C:\Users\avive\OneDrive - Kantar\avi\SfileHelper\SfileHelper\SfileHelper\bin\Debug\MahApps.Metro.dll
+C:\Users\avive\OneDrive - Kantar\avi\SfileHelper\SfileHelper\SfileHelper\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\avive\OneDrive - Kantar\avi\SfileHelper\SfileHelper\SfileHelper\bin\Debug\ControlzEx.pdb
+C:\Users\avive\OneDrive - Kantar\avi\SfileHelper\SfileHelper\SfileHelper\bin\Debug\MahApps.Metro.pdb
+C:\Users\avive\OneDrive - Kantar\avi\SfileHelper\SfileHelper\SfileHelper\bin\Debug\MahApps.Metro.xml
+C:\Users\avive\OneDrive - Kantar\avi\SfileHelper\SfileHelper\SfileHelper\obj\Debug\SfileHelper.csproj.ResolveComReference.cache
+C:\Users\avive\OneDrive - Kantar\avi\SfileHelper\SfileHelper\SfileHelper\obj\Debug\App.baml
+C:\Users\avive\OneDrive - Kantar\avi\SfileHelper\SfileHelper\SfileHelper\obj\Debug\SfileHelper.csproj.CopyComplete
+C:\Users\avive\OneDrive - Kantar\avi\SfileHelper\SfileHelper\SfileHelper\bin\Debug\MathConverter.dll
+C:\Users\avive\OneDrive - Kantar\avi\SfileHelper\SfileHelper\SfileHelper\bin\Debug\MathConverter.pdb
+C:\Users\vellera\OneDrive - Kantar\avi\SfileHelper\SfileHelper\SfileHelper\bin\Debug\MathConverter.dll
+C:\Users\vellera\OneDrive - Kantar\avi\SfileHelper\SfileHelper\SfileHelper\bin\Debug\MathConverter.pdb
+M:\avi\latest\SfileHelper\SfileHelper\SfileHelper\bin\Debug\SfileHelper.exe.config
+M:\avi\latest\SfileHelper\SfileHelper\SfileHelper\bin\Debug\SfileHelper.exe
+M:\avi\latest\SfileHelper\SfileHelper\SfileHelper\bin\Debug\SfileHelper.pdb
+M:\avi\latest\SfileHelper\SfileHelper\SfileHelper\bin\Debug\ControlzEx.dll
+M:\avi\latest\SfileHelper\SfileHelper\SfileHelper\bin\Debug\MahApps.Metro.dll
+M:\avi\latest\SfileHelper\SfileHelper\SfileHelper\bin\Debug\MathConverter.dll
+M:\avi\latest\SfileHelper\SfileHelper\SfileHelper\bin\Debug\System.Windows.Interactivity.dll
+M:\avi\latest\SfileHelper\SfileHelper\SfileHelper\bin\Debug\ControlzEx.pdb
+M:\avi\latest\SfileHelper\SfileHelper\SfileHelper\bin\Debug\MahApps.Metro.pdb
+M:\avi\latest\SfileHelper\SfileHelper\SfileHelper\bin\Debug\MahApps.Metro.xml
+M:\avi\latest\SfileHelper\SfileHelper\SfileHelper\bin\Debug\MathConverter.pdb
+M:\avi\latest\SfileHelper\SfileHelper\SfileHelper\obj\Debug\SfileHelper.csproj.ResolveComReference.cache
+M:\avi\latest\SfileHelper\SfileHelper\SfileHelper\obj\Debug\MainWindow.baml
+M:\avi\latest\SfileHelper\SfileHelper\SfileHelper\obj\Debug\App.baml
+M:\avi\latest\SfileHelper\SfileHelper\SfileHelper\obj\Debug\MainWindow.g.cs
+M:\avi\latest\SfileHelper\SfileHelper\SfileHelper\obj\Debug\Window1.g.cs
+M:\avi\latest\SfileHelper\SfileHelper\SfileHelper\obj\Debug\App.g.cs
+M:\avi\latest\SfileHelper\SfileHelper\SfileHelper\obj\Debug\SfileHelper_MarkupCompile.cache
+M:\avi\latest\SfileHelper\SfileHelper\SfileHelper\obj\Debug\SfileHelper_MarkupCompile.lref
+M:\avi\latest\SfileHelper\SfileHelper\SfileHelper\obj\Debug\Window1.baml
+M:\avi\latest\SfileHelper\SfileHelper\SfileHelper\obj\Debug\SfileHelper.g.resources
+M:\avi\latest\SfileHelper\SfileHelper\SfileHelper\obj\Debug\SfileHelper.Properties.Resources.resources
+M:\avi\latest\SfileHelper\SfileHelper\SfileHelper\obj\Debug\SfileHelper.csproj.GenerateResource.cache
+M:\avi\latest\SfileHelper\SfileHelper\SfileHelper\obj\Debug\SfileHelper.csproj.CoreCompileInputs.cache
+M:\avi\latest\SfileHelper\SfileHelper\SfileHelper\obj\Debug\SfileHelper.csproj.CopyComplete
+M:\avi\latest\SfileHelper\SfileHelper\SfileHelper\obj\Debug\SfileHelper.exe
+M:\avi\latest\SfileHelper\SfileHelper\SfileHelper\obj\Debug\SfileHelper.pdb
+M:\avi\latest\SfileHelper\SfileHelper\SfileHelper\obj\Debug\SfileHelper.csprojAssemblyReference.cache

@@ -1,0 +1,8 @@
+            <TabItem Header="edit S">
+                <Grid Background="#FFE5E5E5">
+                    <Button x:Name="B_Databrows" Content="Browse" HorizontalAlignment="Left" Margin="30,47,0,0" VerticalAlignment="Top" Width="46" Click="Browse_Data_Grid" Height="22"/>
+                    <TextBox x:Name="L_Databrows" HorizontalAlignment="Left" Height="23" Margin="124,47,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="252" />
+                    <ListBox x:Name="GridDataFromUser" IsTextSearchEnabled="True" IsManipulationEnabled="True" SelectionMode="Extended" HorizontalAlignment="Left" Height="226" Margin="30,87,0,0" VerticalAlignment="Top" Width="346"  />
+                    <Button x:Name="B_Delete_record_FromUser" Content="Delete record" Margin="245,330,616,0" VerticalAlignment="Top" Click="Delete_UserRecord" Height="22"/>
+                </Grid>
+            </TabItem>

@@ -1,0 +1,28 @@
+﻿<Window x:Class="SfileHelper.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SfileHelper"
+        mc:Ignorable="d"
+        Title="Add record window" Height="482.288" Width="319.936" ResizeMode="CanMinimize">
+    <Grid>
+
+        <TextBox Height="34" TextWrapping="Wrap" x:Name="L_quata_name" VerticalAlignment="Top"  Margin="40,79,46,0" />
+        <Label x:Name="quata_name" Content="quata name" HorizontalAlignment="Left" Margin="40,53,0,0" VerticalAlignment="Top" Width="83"/>
+
+
+        <TextBox Height="34" TextWrapping="Wrap" x:Name="L_quta_quantity" Margin="40,168,46,0"  VerticalAlignment="Top"/>
+        <Label x:Name="quta_quantity" Content="quta quantity" HorizontalAlignment="Left" Margin="40,141,0,0" VerticalAlignment="Top" Width="94"/>
+
+        <TextBox Height="34" TextWrapping="Wrap" x:Name="L_quata_position" Margin="40,252,46,0"  VerticalAlignment="Top"/>
+        <Label x:Name="quata_position" Content="quata position" HorizontalAlignment="Left" Margin="40,221,0,0" VerticalAlignment="Top" Width="94"/>
+
+        <TextBox Height="34" TextWrapping="Wrap" x:Name="L_quata_code" Margin="40,329,46,0" VerticalAlignment="Top"/>
+        <Label x:Name="quata_code" Content="quata code" HorizontalAlignment="Left" Margin="40,301,0,0" VerticalAlignment="Top" Width="94"/>
+
+        <Button Height="34" Content="Add record" Click="Add_Record" Margin="41,385,45,0" VerticalAlignment="Top" />
+
+
+    </Grid>
+</Window>
